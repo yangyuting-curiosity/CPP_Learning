@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1516850819 source:c:\users\user\desktop\triangle2\triangle2\main.cpp
+	<iostream>
+	<iomanip>
+	<string.h>
+	<cmath>
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<chrono>
+	"triangle2.h"
+
+1516852122 c:\users\user\desktop\triangle2\triangle2\triangle2.h
+
